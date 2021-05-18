@@ -1,1 +1,1 @@
-# HatTeSpeechDetectioninHINGLISH
+# HateSpeechDetectioninHINGLISH
